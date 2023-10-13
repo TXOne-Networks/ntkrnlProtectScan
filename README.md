@@ -3,7 +3,7 @@ One Click Tool to Scan All the Enabled Protection of current Windows NT Kernel
 
 Usage: 
 ```powershell
-PS C:\Users\Pwn> IEX($(IWR https://raw.githubusercontent.com/aaaddress1/ntkrnlProtectScan/main/ntkrnlProtectScan.ps1).Content)
+PS C:\Users\Pwn> IEX($(IWR https://raw.githubusercontent.com/TXOne-Networks/ntkrnlProtectScan/main/ntkrnlProtectScan.ps1).Content)
 _   _ _____   _  __                    _
 | \ | |_   _| | |/ /___ _ __ _ __   ___| |
 |  \| | | |   | ' // _ \ '__| '_ \ / _ \ |
